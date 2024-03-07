@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: [https://main--aem-knowpneumonia--easyadin.hlx.page/](https://main--aem-knowpneumonia--easyadin.hlx.page/)
-- Live: [https://main--aem-knowpneumonia--easyadin.hlx.live/](https://main--aem-knowpneumonia--easyadin.hlx.live/)
+- Preview: [https://main--adobe-aem--easyadin.hlx.page/](https://main--adobe-aem--easyadin.hlx.page/)
+- Live: [https://main--adobe-aem--easyadin.hlx.live/](https://main--adobe-aem--easyadin.hlx.live/)
 
 ## Installation
 
